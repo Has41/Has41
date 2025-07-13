@@ -17,11 +17,12 @@ Real-time private & group chat using WebSockets. Authentication, live messaging,
 
 🔹 [**3D Clothes Configurator (FYP)**](https://github.com/Has41/FYP-Project-Fabric)  
 A 3D product customization tool built with React Three Fiber. Users can modify fabrics, patterns, and styles in real time.  
-`React · R3F · Zustand · Tailwind · Custom Hooks`
+`React · R3F · Context API · Tailwind · Custom Hooks`
 
 🔹 💼 **Client Project (Private Repo)**  
 Delivered a complete full-stack website + admin dashboard to a real client. Code available upon request.
 [Link](https://www.dfymoving.com/)
+
 `MERN · Auth · Dashboard UI · Client Communication`
 
 ---
