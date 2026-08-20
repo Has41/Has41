@@ -1,18 +1,74 @@
-# 💫 About Me:
-I am a Full Stack Web Developer specializing in the MERN stack, passionate about building scalable, responsive, and real-time web applications. I enjoy solving complex problems and creating intuitive user experiences with clean and maintainable code.<br><br>Currently, I’m working on a real-time chat application using Socket.IO and JWT, while exploring advanced tools like React Three Fiber and Next.js to push the boundaries of modern web development.<br><br>My goal is to contribute to projects that make an impact, while continuously learning and improving. Let’s connect and build something amazing!<br>
+# Hey, I'm Hassaan 👋
 
+### Full-Stack Software Engineer @ Fleetlery
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] I am a Full Stack Web Developer specializing in the MERN stack, passionate about building scalable, responsive, and real-time web applications. I enjoy solving complex problems and creating intuitive user experiences with clean and maintainable code.  Currently, I’m working on a real-time chat application using Socket.IO and JWT, while exploring advanced tools like React Three Fiber and Next.js to push the boundaries of modern web development.  My goal is to contribute to projects that make an impact, while continuously learning and improving. Let’s connect and build something amazing!) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ssc.hassaan.190224@gmail.com) 
+I'm a software engineer from **Pakistan 🇵🇰**, building production web applications across the frontend and backend.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Has41&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Has41&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Has41&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I primarily work with **React, TypeScript, and Go**, with a growing focus on backend engineering, system design, performance, and building reliable software.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Has41&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+* 💼 Working as a **Full-Stack Software Engineer at Fleetlery**
+* ⚛️ Building modern frontends with **React & TypeScript**
+* 🐹 Building backend services and APIs with **Go**
+* 🗄️ Working with **PostgreSQL, Redis, and MongoDB**
+* 🐳 Using **Docker** for development and containerized environments
+* 🧪 Writing automated tests with **Vitest & Playwright**
+* 🧠 Continuously strengthening my **Computer Science, backend architecture, and system design** fundamentals
+
+---
+
+## 🛠️ Tech Stack
+
+### Core
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square\&logo=go\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+
+### Backend & Data
+
+![Gin](https://img.shields.io/badge/Gin-008ECF?style=flat-square\&logo=gin\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+
+### Frontend
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square\&logo=vite\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square\&logo=reactquery\&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square\&logo=reactrouter\&logoColor=white)
+
+### Tools & Engineering
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square\&logo=vitest\&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square\&logo=playwright\&logoColor=white)
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Has41&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Hassaan's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Has41&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Hassaan's most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Has41&theme=github-dark-blue&hide_border=true" alt="Hassaan's GitHub streak" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hassaan_Ali-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/has41/)
+[![Email](https://img.shields.io/badge/Email-ssc.hassaan.190224%40gmail.com-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:ssc.hassaan.190224@gmail.com)
